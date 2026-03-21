@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Lalith-Dev/Lalith-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lalith 👋
 
-Here are some ideas to get you started:
+Python Developer | Software Engineer | Data Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build backend applications, data pipelines, and automation tools using Python.
+
+## Tech Stack
+- Python
+- Django
+- FastAPI
+- PostgreSQL
+- SQL
+- AWS
+- React
+- Machine Learning
+- Data Science
+- Data Engineering
+
+## Projects
+- URL Shortener (FastAPI + Redis + PostgreSQL)
+- ETL Data Pipeline (Python + Pandas + PostgreSQL)
+- SFTP File Upload Automation (Python + AsyncSSH)
+
+## Currently Working On
+- Building a strong backend/data engineering portfolio
+- Preparing for software engineering interviews
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/lalith-balaji
