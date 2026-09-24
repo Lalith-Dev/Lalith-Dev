@@ -9,7 +9,7 @@ Python software engineer in London. I build **backend APIs, data pipelines and A
 | Project | What it shows |
 |---|---|
 | [**url-shortener**](https://github.com/Lalith-Dev/url-shortener) | **Backend:** FastAPI, PostgreSQL, Redis. Cache TTLs tied to link expiry, atomic counters, graceful Redis failure, tested with CI |
-| [**stock-etl-pipeline**](https://github.com/Lalith-Dev/REPLACE-WITH-REPO-NAME) | **Data engineering:** PySpark transforms, Prefect orchestration, PostgreSQL, Streamlit dashboard, Docker, GitHub Actions |
+| [**stock-etl-pipeline**](https://github.com/Lalith-Dev/stock-etl-pipeline) | **Data engineering:** PySpark transforms, Prefect orchestration, PostgreSQL, Streamlit dashboard, Docker, GitHub Actions |
 
 More coming soon, including an AI agent project using MCP.
 
